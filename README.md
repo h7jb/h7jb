@@ -178,11 +178,11 @@ SYSTEMS • NETWORKS • AI • AUTOMATION
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/h7jb">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/invite/WcgdUnhqkr">
 <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
